@@ -1,0 +1,27 @@
+:root {
+	--dark: #374151;
+	--darker: #1F2937;
+	--darkest: #111827;
+	--grey: #6B7280;
+	--pink: #EC4899;
+	--purple: #8B5CF6;
+	--light: #EEE;
+}
+    li.pointer{
+        cursor: crosshair;
+    }
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	color: #FFF;
+	background-color: var(--dark);
+}
+
+
+header h1 {
+	flex-direction: column-reverse;
+    font-family: sans-serif;
+    font-size:xx-small;
+    color: var(--pink)
+}

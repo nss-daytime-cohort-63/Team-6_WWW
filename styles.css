@@ -1,3 +1,43 @@
+body{ 
+    background-image: url (" ");
+  }
+  
+  h1 {
+    color: red !important;
+    font-family: Arial;
+    text-align: center;
+    background: gold;
+    }
+  
+  h1.second {
+    color:red;
+  /*  crl ? comments and remarks */
+    font-family: Arial;
+    text-align: center;
+    background: blue;
+    }
+  
+  #firstName {
+    background-color:lightblue; 
+  }
+  
+  .paragraph {
+    font-size: 30px; 
+  }
+  
+  h1, h2, h3, p { 
+    text align: right;
+  }
+  
+  img { 
+    border: 14px solid red;
+    width: 300px;
+  }
+ 
+  
+  div.inherit {
+    font-weight: bold;
+  }
 :root {
 	--dark: #374151;
 	--darker: #1F2937;

@@ -26,7 +26,7 @@ body{
   }
   
   h1, h2, h3, p { 
-    text-align: right;
+    text-align: center;
   }
   
   img { 
@@ -178,3 +178,5 @@ header h1 {
     font-size:xx-small;
     color: var(--pink)
 }
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/nature/nat-1/nat10.ani), url(https://cur.cursors-4u.net/nature/nat-1/nat10.png), auto !important;} /* End https://www.cursors-4u.com */
